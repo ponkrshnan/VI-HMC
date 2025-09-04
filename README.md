@@ -1,4 +1,4 @@
-# VI-HMC
+# VI-HMC for Bayesian Inference
 This repository implements the hybrid **VI-HMC** approach for posterior inference in Bayesian neural networks and Bayesian neural operators as described in this [paper](https://arxiv.org/abs/2507.14652). 
 
 --------------------------------------------------------------------------------
