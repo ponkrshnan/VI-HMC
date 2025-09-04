@@ -3,7 +3,7 @@
 """
 Created on Fri Aug  2 10:40:23 2024
 
-Input file to regeression_hmc.py
+Input file to main_regression_hmc.py
 
 @author: ponkrshnan
 """

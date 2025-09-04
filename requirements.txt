@@ -1,0 +1,8 @@
+hamiltorch @ git+https://github.com/AdamCobb/hamiltorch
+matplotlib==3.8.4
+numpy==1.26.4
+scipy==1.14.0
+seaborn==0.13.2
+tfrecord==1.14.4
+torch==2.2.2
+tqdm==4.66.5

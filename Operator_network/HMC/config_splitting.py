@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  6 16:13:03 2024
 
-This is the input file for HMC_splitting.py
+This is the input file for main_HMC_splitting.py
 
 @author: Ponkrshnan
 """

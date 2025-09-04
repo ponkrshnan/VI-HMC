@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  6 16:13:03 2024
 
-Input file for VI_HMC.py
+Input file for main_VI_HMC.py
 
 @author: Ponkrshnan
 """

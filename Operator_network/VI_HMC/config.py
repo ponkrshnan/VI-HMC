@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  6 16:13:03 2024
 
-This is the input file for both VI_HMC_burgers.py and VI_HMC_splitting.py
+This is the input file for both main_VI_HMC_burgers.py and VI_HMC_splitting.py
 
 @author: Ponkrshnan
 """
