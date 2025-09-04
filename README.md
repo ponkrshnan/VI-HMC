@@ -21,7 +21,7 @@ This repository requires **Python 3.11.8**. A requirements.txt is provided with 
 * The scripts that start with the name `main_*.py` are executable to run the corresponding inference method. 
 * Files named `config.py` are input files that contains the configuration parameters required to run the main scripts.
 * VI directories contain additional scripts named `sensitivity.py` to perform the sensitivity analysis.
-* Deeponet data should be downladed from [this link](https://osf.io/x64h7) and saved to the 'Data' folder before running operator network scripts.
+* Burgers data for the DeepONet used in the manuscript can be downladed from [this link](https://osf.io/x64h7). Save this file to the `Data` folder before running operator network scripts.
 
 ---------------------------------------------------------------------------------
 ### Reference
