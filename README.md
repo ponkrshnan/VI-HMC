@@ -19,8 +19,8 @@ This repository requires **Python 3.11.8**. A requirements.txt is provided with 
 ---------------------------------------------------------------------------------
 ### Running examples
 * The scripts that start with the name 'main' are executable to run the corresponding inference method. 
-* Files named 'config.py' are input files that contains the configuration parameters required to run the main scripts.
-* VI directories contain additional scripts named 'sensitivity.py' to perform the sensitivity analysis.
+* Files named `config.py` are input files that contains the configuration parameters required to run the main scripts.
+* VI directories contain additional scripts named `sensitivity.py` to perform the sensitivity analysis.
 * Deeponet data should be downladed from [this link] and saved to the 'Data' folder before running operator network scripts.
 
 ---------------------------------------------------------------------------------
