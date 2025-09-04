@@ -1,0 +1,1 @@
+This folder contain Bayesian layers trained using VI as implemented in:  https://github.com/kumar-shridhar/PyTorch-BayesianCNN
