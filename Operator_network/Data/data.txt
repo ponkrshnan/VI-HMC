@@ -1,0 +1,1 @@
+Download the DeepONet data from: https://osf.io/x64h7 and save it in this folder.
